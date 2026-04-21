@@ -5,6 +5,10 @@ Analyzes 8,000+ titles from Netflix to uncover content trends, audience preferen
 
 <br>
 
+**Tools:** Power BI · SQL · Excel
+
+<br>
+
 ## 📊 Dashboard Overview
 
 <br>
