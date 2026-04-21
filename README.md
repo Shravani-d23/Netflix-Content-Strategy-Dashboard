@@ -1,5 +1,5 @@
 # Netflix Content Strategy Dashboard
-A Power BI dashboard analysing 8,000+ Netflix titles to uncover content trends, audience preferences, and global distribution strategy. The project leverages SQL for data extraction and Excel for preprocessing, delivering actionable insights into genre popularity, maturity ratings, and international expansion.
+A Power BI dashboard analysing 8,000+ titles from Netflix to uncover content trends, audience preferences, and global distribution strategy. The project leverages SQL for data extraction and Excel for preprocessing, delivering actionable insights into genre popularity, maturity ratings, and international expansion.
 
 
 ## 📊 Dashboard Overview
