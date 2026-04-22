@@ -88,30 +88,16 @@ The objective of this project is to analyze content trends and audience preferen
 <br>
 
 ## 📊 Dashboard Overview
-
-![Dashboard Overview](1_dashboard_overview.png)
-
-<br>
-
----
-
-## 📈 Content Strategy Insights
-<br>
-
-![Dashboard Overview](https://github.com/Shravani-d23/Netflix-Content-Strategy-Dashboard/blob/f1f444d8d64d45532cf4062d165227a7e4880ae1/2_insights_strategy.png)
-
-<br>
-
+![Dashboard Overview](Images/1_dashboard_overview.png)
 
 ## 🌍 Global Insights
+![Global Insights](Images/3_global_insights.png)
 
-![Global Insights](3_global_insights.png)
-<br>
+## 🔍 Title Drilldown Analysis
+![Title Drilldown](Images/4_title_drilldown.png)
 
-
-## 🔎 Title Drilldown Analysis
-
-![Title Drilldown](4_title_drilldown.png)
+## 💡 Insights & Strategy
+![Insights Strategy](Images/2_insights_strategy.png)
 
 <br>
 
